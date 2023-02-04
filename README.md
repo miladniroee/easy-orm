@@ -2,6 +2,14 @@
 
 **Easy ORM** is a simple and lightweight PHP database class.
 
+# Installation
+
+using composer:
+```
+composer require niroee/easy-orm
+```
+
+
 # Usage
 
 You can use this orm for CRUD from one table.
